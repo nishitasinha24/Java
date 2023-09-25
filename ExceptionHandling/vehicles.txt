@@ -1,0 +1,22 @@
+Bicycle,2,0,red,true
+Bicycle,2,0,blue,false
+Motorcycle,2,0,orange,helmet clip,grip warmers
+Car,4,15,silver,4
+SUV
+Bicycle,2,0,black,false
+Car,2,10,black,2
+Car,4,10,blue,4
+CargoCycle,2,30,green,true
+CargoCycle,4,30,grey,false
+Car,4,20,green,2
+SUV
+Car,4,10,white,2
+CargoCycle,2,50,black,true
+CargoCycle,2,50,black,true
+Motorcycle,2,0,black,helmet clip,grip warmers
+Car,4,18,grey,2
+Motorcycle,2,0,brown,helmet clip,grip warmers
+CargoCycle,3,60,blue,true
+Bicycle,2,0,red,false
+Motorcycle,2,0,red,helmet clip,grip warmers
+Bicycle,2,0,grey,true
